@@ -1,3 +1,5 @@
+This is a fork of yvt/openspades, forked by no.
+
 # OpenSpades [![Build status](https://travis-ci.org/yvt/openspades.png?branch=master)](https://travis-ci.org/yvt/openspades)
 
 ![OpenSpades banner](https://dl.dropboxusercontent.com/u/37804131/github/OpenSpadesBanner.jpg)
